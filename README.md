@@ -1,6 +1,6 @@
 # filed_payments
-###### author : Prashant Rana
-###### email: uchiha.rana62@gmail.com
+###### author : Gaurav Gawade
+###### email: gauravgawade951999@gmail.com
 ###### Operating system used: Ubuntu 20.04
 
 Coding exercise:  
@@ -38,7 +38,7 @@ Have `pipenv` installed in your system
 run the following command to do so.
     1. clone the project from git on your system 
     
-    git clome https://github.com/sahasrara62/filed_payments.git
+    git clome https://github.com/gauravgit/filed_payments.git
     
    2. cd `filed_payments`
    3. run command `pipenv install`
